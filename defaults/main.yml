@@ -21,7 +21,7 @@ datetime_ntp_config_additional: ''
 datetime_sync_hardware_clock: true
 
 # timezone
-datetime_timezone: 'Europe/Berlin'
+datetime_timezone: 'US/Eastern'
 
 # Monit
 datetime_enable_monit_check: true
